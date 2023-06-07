@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm James, a full-stack junior developer with a background in product management.
+I'm James, a full-stack web developer with a background in product management.
 
 <!--
 **james-gulland/james-gulland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
